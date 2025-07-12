@@ -1,0 +1,4 @@
+OPENAI_API_KEY=
+OPENAI_MODEL=gpt-3.5-turbo
+OPENAI_MODEL_EMBEDDING=text-embedding-3-large
+COLLECTION_NAME=rag_document
